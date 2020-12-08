@@ -7,7 +7,6 @@
 * add the following to the `.env` file:
 
 ```
-
 DATABASE_URL=<database url goes here>/project3?retryWrites=true&w=majority
 SECRET=<a secret goes here>
 ```
